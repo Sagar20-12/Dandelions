@@ -1,8 +1,8 @@
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
+# <a href="https://github.com/Sagar20-12/Dandelions" target="_blank">Dandelions</a>
 
 ![Pexelicons Logo](assets/images/Websitescreenshot.png)
 
-Pexelicons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
+Dandelions a place that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
 ## Features
 
@@ -23,7 +23,7 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 
 ### Download Icons
 
-Visit the [Pexelicons Website](https://vinodjangid07.github.io/Pexelicons) to download custom folder icons for your PC.
+Visit the [Dandelions Website](https://github.com/Sagar20-12/Dandelions) to download custom folder icons for your PC.
 
 ### How to Use
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Design & Built by <a href="https://github.com/vinodjangid07">@Vinodjangid07</a> | &copy; twentytwentyfour</p>
+<p align="center">Made with ❣️ by <a href="https://github.com/Sagar20-12/Dandelions">@sagar_raghav</a> | &copy; 2024</p>
