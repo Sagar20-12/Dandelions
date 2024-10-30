@@ -39,7 +39,7 @@ Follow these steps to apply custom icons to your folders:
 
 ## Contributing
 
-If you'd like to contribute to Pexelicons, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+Feel free to contribute to Dandelions. Your contributions are highly appreciated!
 
 ## License
 
@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- For inquiries, contact infovinodjangid@gmail.com
+- For inquiries, contact sagar.singh.raghavv@gmail.com
 
 ---
 
