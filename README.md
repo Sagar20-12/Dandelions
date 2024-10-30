@@ -1,6 +1,7 @@
 # <a href="https://github.com/Sagar20-12/Dandelions" target="_blank">Dandelions</a>
 
-![Pexelicons Logo](assets/images/Websitescreenshot.png)
+![Websitescreenshot](https://github.com/user-attachments/assets/8498eb33-a3df-4287-a8a9-b61a420b5930)
+
 
 Dandelions a place that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
